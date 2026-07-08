@@ -2,7 +2,6 @@
 
 A Python command-line tool that discovers devices on a local network, scans them for open ports, identifies running services/versions, and flags common security risks — with results printed to the terminal and saved to a timestamped report file.
 
-I built this to deepen my practical understanding of network reconnaissance and basic security auditing, drawing on concepts from my Master of Information Technology and Systems (Cybersecurity).
 
 ## What it does
 

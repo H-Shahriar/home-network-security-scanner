@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+scan_report_*.txt
+.DS_Store
